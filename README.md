@@ -1,4 +1,4 @@
-# AI-Nutritionist-Gemini-iOS 🍎
+# Nutri-Log Pro 🍎
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: iOS](https://img.shields.io/badge/Platform-iOS-blue.svg)](https://www.apple.com/ios/)
@@ -8,7 +8,7 @@
 <a name="english"></a>
 ## English
 
-**AI-Nutritionist-Gemini-iOS** is an intelligent dietary tracking tool based on iOS Shortcuts and the Google Gemini 3 Flash multimodal model. It analyzes food photos to calculate nutritional components and automatically synchronizes data to Apple Health and Apple Notes.
+**Nutri-Log Pro** is an intelligent dietary tracking tool based on iOS Shortcuts and the Google Gemini 3 Flash multimodal model. It analyzes food photos to calculate nutritional components and automatically synchronizes data to Apple Health and Apple Notes.
 
 ### ✨ Key Features
 
@@ -37,7 +37,7 @@
 <a name="chinese-description"></a>
 ## 中文说明
 
-**AI-Nutritionist-Gemini-iOS** 是一款基于 iOS 快捷指令和 Google Gemini 3 Flash 多模态大模型的智能饮食追踪工具。它能通过分析食物照片计算营养成分，并自动将数据同步至苹果“健康”与“备忘录”。
+**Nutri-Log Pro** 是一款基于 iOS 快捷指令和 Google Gemini 3 Flash 多模态大模型的智能饮食追踪工具。它能通过分析食物照片计算营养成分，并自动将数据同步至苹果“健康”与“备忘录”。
 
 ### ✨ 核心特性
 
